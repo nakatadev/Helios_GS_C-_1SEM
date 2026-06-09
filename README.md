@@ -98,9 +98,3 @@ Rodrigo Nakata - RM 556417
 Gabriel Henrique Padula - RM 554907
 Arthur Abonizio - RM 555506
 ```
-
-## Observacoes
-
-- O projeto e propositalmente Console para atender ao enunciado sem adicionar requisitos opcionais.
-- Nao ha banco de dados. A persistencia da simulacao usa repositorios em memoria.
-- O arquivo `Docs/evidencias-execucao.txt` existe apenas como evidencia obrigatoria de execucao.
