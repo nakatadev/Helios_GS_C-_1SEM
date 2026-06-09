@@ -22,11 +22,15 @@ dotnet build
 dotnet run
 ```
 
-A evidencia de uma execucao ja foi salva em:
+A evidencia de uma execucao foi salva em:
 
 ```text
 Docs/evidencias-execucao.txt
 ```
+Segue as imagens abaixo sobre a execução:
+
+<img width="895" height="630" alt="image" src="https://github.com/user-attachments/assets/7c2839c8-d632-47d8-bacf-d92209b7c36e" />
+<img width="894" height="626" alt="image" src="https://github.com/user-attachments/assets/894673e5-6045-4800-85a9-016344370b80" />
 
 ## Como integra com a GS
 
